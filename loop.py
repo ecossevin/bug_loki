@@ -1,0 +1,2 @@
+DO JDLON=YDMODEL%NIJB, YMODEL%NIJE
+where YDMODEL is an array
