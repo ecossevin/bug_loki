@@ -1,0 +1,4 @@
+#ignore tar 
+*.tar
+#ignore pycache
+__pycache__/
